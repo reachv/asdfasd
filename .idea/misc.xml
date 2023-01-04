@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/activity_add_remove_friends.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/activity_create_games.xml" value="0.5572916666666666" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/activity_friends.xml" value="0.5" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/activity_game.xml" value="0.5572916666666666" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/activity_login.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/activity_main.xml" value="0.3234375" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/fragment_create_games.xml" value="0.42864583333333334" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/fragment_freinds.xml" value="0.5572916666666666" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/fragment_friends.xml" value="0.5572916666666666" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/fragment_friends_request.xml" value="0.42864583333333334" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/fragment_home.xml" value="0.41458333333333336" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/item_challenge.xml" value="0.3234375" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/item_friends.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/item_friendsrequest.xml" value="0.42864583333333334" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/item_gamelayout.xml" value="0.55625" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/layout/item_games.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/menu/bottomnav.xml" value="0.42864583333333334" />
+        <entry key="..\:/Users/reach/Desktop/WordleBattle/app/src/main/res/menu/dropmenu.xml" value="0.42864583333333334" />
+        <entry key="..\:/Users/reach/Desktop/android-samples-main/tutorials/WordleBattle/app/src/main/res/layout/activity_login.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/reach/Desktop/android-samples-main/tutorials/WordleBattle/app/src/main/res/layout/activity_main.xml" value="0.32708333333333334" />
+        <entry key="..\:/Users/reach/Desktop/android-samples-main/tutorials/WordleBattle/app/src/main/res/layout/activity_register.xml" value="0.5572916666666666" />
+        <entry key="..\:/Users/reach/Desktop/android-samples-main/tutorials/WordleBattle/app/src/main/res/layout/item_challenge.xml" value="0.32708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
